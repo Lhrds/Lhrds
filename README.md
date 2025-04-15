@@ -39,6 +39,13 @@ Meu nome é **Lucas Henrique Rezende de Souza**, e sou apaixonado por resolver p
 - 💼 LinkedIn: [Lucas Henrique](www.linkedin.com/in/lucas-henrique-6028a9139)
 - 📱 WhatsApp: [+55 31 9894-99376](https://wa.me/5531989499376)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lhrds/Lhrds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lhrds/Lhrds/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lhrds/Lhrds/output/pacman-contribution-graph.svg">
+</picture>
+
+
 ## Vamos Conectar?
 
 Estou sempre aberto para discutir oportunidades de colaboração, projetos interessantes ou apenas trocar ideias sobre tecnologia e inovação. Não hesite em entrar em contato! 😊
