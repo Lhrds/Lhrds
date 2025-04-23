@@ -36,7 +36,7 @@ Meu nome é **Lucas Henrique Rezende de Souza**, e sou apaixonado por resolver p
 ## Como Entrar em Contato
 
 - 📧 E-mail: lucasrezende_2013@hotmail.com
-- 💼 LinkedIn: [Lucas Henrique](www.linkedin.com/in/lucas-henrique-6028a9139)
+- 💼 LinkedIn: [Lucas Henrique](https://www.linkedin.com/in/lucasrezende-dev/)
 - 📱 WhatsApp: [+55 31 9894-99376](https://wa.me/5531989499376)
 
 <picture>
