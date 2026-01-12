@@ -160,17 +160,17 @@ const experiencia = {
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/code.png" width="50"/>
+      <span style="font-size: 50px;">💻</span>
       <br><b>Clean Code</b>
       <br>Código limpo e manutenível
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/data-configuration.png" width="50"/>
+      <span style="font-size: 50px;">📊</span>
       <br><b>Data Analysis</b>
       <br>Análise e visualização de dados
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="50"/>
+      <span style="font-size: 50px;">🤖</span>
       <br><b>AI Integration</b>
       <br>Integração com ferramentas de IA
     </td>
