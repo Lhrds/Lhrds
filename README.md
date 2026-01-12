@@ -6,17 +6,27 @@
 
 ---
 
+### 🎮 Vamos Jogar? (Snake no GitHub)
+
+Para deixar meu perfil mais descontraído, adicionei um jogo de **Snake** que é atualizado automaticamente com as minhas contribuições! 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lhrds/Lhrds/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+---
+
 ### 🚀 Sobre Mim
 
 Sou um desenvolvedor em transição de carreira da área contábil para a tecnologia. Foco em criar soluções inteligentes, performáticas e visualmente impactantes. Atualmente, estou mergulhando fundo no ecossistema **React**, **Python** e **Inteligência Artificial**.
 
 ---
 
-### 🎮 Experiência Interativa
+### 📄 Meu Currículo Futurista
 
-Criei um currículo futurista com um **Mini Game (Snake)** integrado! Venha bater o recorde:
+Confira meu currículo com design **Cyberpunk** e baixe a versão em PDF:
 
-👉 **[JOGAR E VER CURRÍCULO](https://lhrds.github.io/resume/)**
+👉 **[VER CURRÍCULO ONLINE](https://lhrds.github.io/resume/)**
 
 ---
 
