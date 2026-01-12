@@ -37,9 +37,9 @@ Criei um currículo futurista com um **Mini Game (Snake)** integrado! Venha bate
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lhrds&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lhrds&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhrds&layout=compact&theme=tokyonight&hide=html" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhrds&layout=compact&theme=radical&hide=html" alt="Top Langs" />
 </p>
 
 ---
