@@ -1,51 +1,62 @@
-# Olá! 👋
+# 👋 Olá, eu sou o Lucas Henrique!
 
-Meu nome é **Lucas Henrique Rezende de Souza**, e sou apaixonado por resolver problemas e explorar novas tecnologias. Atualmente, estou me formando em programação e tenho mais de 4 anos de experiência como **Auxiliar Administrativo II**, onde desenvolvi habilidades sólidas em gestão, organização e comunicação eficaz.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00f2ff&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Full+Stack;Especialista+em+Análise+de+Dados;Apaixonado+por+Tecnologia+e+IA" alt="Typing SVG" />
+</p>
 
-## Sobre Mim
+---
 
-- 💼 **Experiência Administrativa**: Atuo como Auxiliar Administrativo II há mais de 4 anos, gerenciando tarefas administrativas complexas, coordenação de agendas e implementação de sistemas de arquivamento digitais.
-- 🎓 **Estudante de Programação**: Estou me formando no próximo ano, com foco no desenvolvimento Full Stack, aprendendo tecnologias como Python, Django e JavaScript.
-- 🚀 **Conquistas**: 
-  - Implementação bem-sucedida de sistemas de arquivamento digitais, aumentando a eficiência operacional.
-  - Participação em projetos que envolvem automação de processos usando VBA e outras ferramentas.
-- 🌱 **Atualmente aprendendo**: Desenvolvimento backend com Python e Django, além de explorar o frontend com Vue.js.
+### 🚀 Sobre Mim
 
-## Principais Habilidades
+Sou um desenvolvedor em transição de carreira da área contábil para a tecnologia. Foco em criar soluções inteligentes, performáticas e visualmente impactantes. Atualmente, estou mergulhando fundo no ecossistema **React**, **Python** e **Inteligência Artificial**.
 
-- **Gestão administrativa**: Experiência consolidada na organização de processos e gestão de tarefas administrativas.
-- **Comunicação eficaz**: Habilidade em transmitir ideias de forma clara, favorecendo a colaboração em equipe.
-- **Desenvolvimento**: Aprendizado em tecnologias como Python, Django, PostgreSQL, JavaScript e Vue.js.
-- **Resolução de problemas**: Capacidade de enfrentar desafios e propor soluções criativas, seja em ambientes administrativos ou de programação.
+---
 
-## Projetos de Programação
+### 🎮 Experiência Interativa
 
-- **Coletor de Notícias**: Um script em Python que coleta e organiza manchetes de notícias de diferentes fontes.
-- **App de Lista de Tarefas**: Um aplicativo simples de gerenciamento de tarefas, usando Vue.js e Django.
-- **Automação de Processos com VBA**: Projeto para otimizar lançamentos contábeis automatizando a inserção de dados a partir de arquivos PDF.
+Criei um currículo futurista com um **Mini Game (Snake)** integrado! Venha bater o recorde:
 
-## 📊 Estatísticas do GitHub:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lhrds&show_icons=true&theme=radical)
+👉 **[JOGAR E VER CURRÍCULO](https://lhrds.github.io/resume/)**
 
-## 👥 Seguidores no GitHub:
-![Contador de Seguidores](https://img.shields.io/github/followers/Lhrds?label=Seguidores&style=social)
+---
 
-## 🚀 Linguagens Mais Usadas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lhrds&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Tech Stack & Tools
 
-## Como Entrar em Contato
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-- 📧 E-mail: lucasrezende_2013@hotmail.com
-- 💼 LinkedIn: [Lucas Henrique](https://www.linkedin.com/in/lucasrezende-dev/)
-- 📱 WhatsApp: [+55 31 9894-99376](https://wa.me/5531989499376)
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lhrds/Lhrds/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lhrds/Lhrds/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lhrds/Lhrds/output/pacman-contribution-graph.svg">
-</picture>
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lhrds&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhrds&layout=compact&theme=tokyonight&hide=html" alt="Top Langs" />
+</p>
 
-## Vamos Conectar?
+---
 
-Estou sempre aberto para discutir oportunidades de colaboração, projetos interessantes ou apenas trocar ideias sobre tecnologia e inovação. Não hesite em entrar em contato! 😊
+### 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://linkedin.com/in/lucasrezende-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lucasrezende2013@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=100&section=footer" />
+</p>
