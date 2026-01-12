@@ -14,22 +14,17 @@
 
 ---
 
-### 🌌 System Overview
+### 👨‍💻 Sobre Mim
 
-```javascript
-const lucas = {
-  role: "Full Stack Developer",
-  background: "Accounting & Data Analysis",
-  location: "Betim, MG - Brazil",
-  mission: "Transforming complex data into elegant digital solutions",
-  techStack: ["React", "Python", "SQL", "Node.js", "PHP"],
-  tools: ["GitHub Copilot", "ChatGPT", "Cursor", "Git"]
-};
-```
+|               |                                                              |
+| :------------ | :----------------------------------------------------------- |
+| 🚀 **Missão** | Transformar dados complexos em soluções digitais elegantes.  |
+| 🌎 **Local**  | Betim, MG - Brasil                                           |
+| 💻 **Foco**   | Desenvolvimento Full Stack com background em Análise de Dados e Contabilidade. |
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Meu Arsenal Tecnológico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,php,git,github,vscode,pycharm,figma" />
@@ -37,7 +32,7 @@ const lucas = {
 
 ---
 
-### 📊 Neural Activity (GitHub Stats)
+### 📊 Minha Atividade no GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lhrds&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
@@ -50,7 +45,7 @@ const lucas = {
 
 ---
 
-### ⚡ Connection Established
+### ⚡ Conecte-se Comigo
 
 <p align="center">
   <a href="https://linkedin.com/in/lucasrezende-dev">
